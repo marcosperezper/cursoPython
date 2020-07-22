@@ -1,5 +1,5 @@
 #Escribir 3 numeros y sacar por pantalla su tipo, 
-# calcular la suma de los numeros y sacar por pantalla el valor y el tipo
+#calcular la suma de los numeros y sacar por pantalla el valor y el t
 
 numero1 = 5
 numero2 = 6.5
